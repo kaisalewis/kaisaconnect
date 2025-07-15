@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-(6mzczwfo6x)^muce7g66eg)k)b)=&f8*#mp(8du%p_kjef=d9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://kaisaconnect.onrender.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['https://kaisaconnect.onrender.com']
 
 
 # Application definition
